@@ -1060,8 +1060,8 @@
     "objectID": "Test/Presentation/index.html#introduction-1",
     "href": "Test/Presentation/index.html#introduction-1",
     "title": "Responsibility, Reflection, and Biases in Secure Coding",
-    "section": "Introduction #1",
-    "text": "Introduction #1\n\nSoftware development is more than just the technical implementation, it is a blend of social, cognitive, and technical mechanisms\nPsychology can offer insights into the individual differences and human behaviours within secure coding\nDespite best efforts by the software engineering community, developers still write insecure code!\nBy applying psychological perspectives to secure coding, we can better address security challenges"
+    "section": "",
+    "text": "Software development is more than just the technical implementation, it is a blend of social, cognitive, and technical mechanisms\nPsychology can offer insights into the individual differences and human behaviours within secure coding\nDespite best efforts by the software engineering community, developers still write insecure code!\nBy applying psychological perspectives to secure coding, we can better address security challenges"
   },
   {
     "objectID": "Test/Presentation/index.html#introduction-2",
@@ -3379,5 +3379,12 @@
     "title": "Statistics for Psychologists",
     "section": "Further tasks",
     "text": "Further tasks\nWe have covered a lot of material in today’s session and I don’t expect you to have time to complete any further tasks. However, if you have managed to reach this point and still have time remaining, here are two things you can do (you should borrow and adapt the code from previous weeks for these two tasks):\n\nGenerate a bar figure plotting the results for the grouping study. Plot the condition means and standard error error bars.\nGenerate a line figure plotting the results for the word length study. Plot the condition means and standard error error bars.\n\nTime to relax now and pat yourself on the back for a job well done! See you in next week’s lab session."
+  },
+  {
+    "objectID": "Test/Presentation/index.html",
+    "href": "Test/Presentation/index.html",
+    "title": "Responsibility, Reflection, and Biases in Secure Coding",
+    "section": "",
+    "text": "Software development is more than just the technical implementation, it is a blend of social, cognitive, and technical mechanisms\nPsychology can offer insights into the individual differences and human behaviours within secure coding\nDespite best efforts by the software engineering community, developers still write insecure code!\nBy applying psychological perspectives to secure coding, we can better address security challenges"
   }
 ]
