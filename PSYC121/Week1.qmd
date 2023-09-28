@@ -4,7 +4,7 @@ subtitle: Written by John Towse & Tom Beesley
 order: 2
 ---
 
-# Lectures
+# Lectures 
 
 Watch Lecture [Part 1](https://modules.lancaster.ac.uk/mod/panopto/view.php?id=1982163)
 
