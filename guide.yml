@@ -40,7 +40,7 @@
       href: PSYC122/Week18.qmd
     - text: "Week 19"
       href: PSYC122/Week19.qmd
-- title: PSYC214
+# - title: PSYC214
   subtitle: Statistics for group comparisons
   links:
     - text: "Week 1"
@@ -59,7 +59,7 @@
       href: PSYC214/Week8.qmd
     - text: "Week 9"
       href: PSYC214/Week9.qmd
-- title: PSYC234
+# - title: PSYC234
   subtitle: "Statistics: from association to modelling causality"
   links:
     - text: "Week 1"
@@ -78,7 +78,7 @@
       href: PSYC234/Week8.qmd
     - text: "Week 9"
       href: PSYC234/Week9.qmd
-- title: PSYC401
+# - title: PSYC401
   subtitle: Analysing and Interpreting Psychological Data I
   links:
     - text: "Week 1"
@@ -97,7 +97,7 @@
       href: PSYC401/Week8.qmd
     - text: "Week 9"
       href: PSYC401/Week9.qmd
-- title: PSYC402
+# - title: PSYC402
   subtitle: Analysing and Interpreting Psychological Data II
   links:
     - text: "Week 11"

@@ -23,14 +23,14 @@ website:
         file: PSYC121/index.qmd
       - text: PSYC122
         file: PSYC122/index.qmd
-      - text: PSYC214
-        file: PSYC214/index.qmd
-      - text: PSYC234
-        file: PSYC234/index.qmd
-      - text: PSYC401      
-        file: PSYC401/index.qmd
-      - text: PSYC402
-        file: PSYC402/index.qmd
+#      - text: PSYC214
+#        file: PSYC214/index.qmd
+#      - text: PSYC234
+#        file: PSYC234/index.qmd
+#      - text: PSYC401      
+#        file: PSYC401/index.qmd
+#      - text: PSYC402
+#        file: PSYC402/index.qmd
 
   sidebar:
   
@@ -44,17 +44,17 @@ website:
       - section: "PSYC122"
         contents: PSYC122/*
         
-      - section: "PSYC214"
-        contents: PSYC214/*
-        
-      - section: "PSYC234"
-        contents: PSYC234/*
-        
-      - section: "PSYC401"
-        contents: PSYC401/*
-        
-      - section: "PSYC402"
-        contents: PSYC402/* 
+#     - section: "PSYC214"
+#       contents: PSYC214/*
+#       
+#     - section: "PSYC234"
+#       contents: PSYC234/*
+#       
+#     - section: "PSYC401"
+#       contents: PSYC401/*
+#       
+#     - section: "PSYC402"
+#       contents: PSYC402/* 
         
         
   page-footer:
